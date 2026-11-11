@@ -14,9 +14,10 @@
 
 | Project | What it is |
 |---|---|
-| [destrukto-inator](https://github.com/Radek-Wojcik/destrukto-inator) | 451 g Antweight combat robot with a custom ESP32 board and ExpressLRS |
-| [chwytatron](https://github.com/Radek-Wojcik/chwytatron) | 6-DOF arm with 100:1 cycloidal gearboxes and a tool changer (work in progress) |
-| [autorespirator](https://github.com/Radek-Wojcik/autorespirator) | Remote-controlled ventilator for CPR training |
-| [lightsaber](https://github.com/Radek-Wojcik/lightsaber) | Metal-hilt prop with a custom ESP32 PCB |
-| [nomad-rover](https://github.com/Radek-Wojcik/nomad-rover) | Mechanics of the KoNaR student Mars rover |
 | [RGBcontroller](https://github.com/Radek-Wojcik/RGBcontroller) | Windows RGB and ambilight controller (C# .NET, React UI) |
+| Irrigation system | Coming soon |
+| [chwytatron](https://github.com/Radek-Wojcik/chwytatron) | 6-DOF arm with 100:1 cycloidal gearboxes and a tool changer (work in progress) |
+| [nomad-rover](https://github.com/Radek-Wojcik/nomad-rover) | Mechanics of the KoNaR student Mars rover |
+| [autorespirator](https://github.com/Radek-Wojcik/autorespirator) | Remote-controlled ventilator for CPR training |
+| [destrukto-inator](https://github.com/Radek-Wojcik/destrukto-inator) | 451 g Antweight combat robot with a custom ESP32 board and ExpressLRS |
+| [lightsaber](https://github.com/Radek-Wojcik/lightsaber) | Metal-hilt prop with a custom ESP32 PCB |
