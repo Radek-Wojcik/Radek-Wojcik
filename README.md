@@ -1,6 +1,6 @@
 # Hi there, I'm Radek 👋
 
-<img src="assets/konar-logo.png" alt="KoNaR, Koło Naukowe Robotyków" width="420">
+<img src="assets/konar-logo.png" alt="KoNaR logo" width="250">
 
 - 🎓 Student at Wrocław University of Science and Technology ([PWr](https://pwr.edu.pl), Faculty W4N)
 - 🤖 President of the student robotics club [KoNaR](https://konar.pwr.edu.pl) ([@KoNarRobotics](https://github.com/KoNarRobotics)); before that President for science projects
