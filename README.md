@@ -1,6 +1,14 @@
-# Hi, I'm Radosław Wójcik
+# Hi there, I'm Radek 👋
 
-Engineering student in Wrocław building robots, embedded electronics and the software around them.
+<img src="assets/konar-logo.png" alt="KoNaR, Koło Naukowe Robotyków" width="420">
+
+- 🎓 Student at Wrocław University of Science and Technology ([PWr](https://pwr.edu.pl), Faculty W4N)
+- 🤖 President of the student robotics club [KoNaR](https://konar.pwr.edu.pl) ([@KoNarRobotics](https://github.com/KoNarRobotics)); before that Vice-President for science projects
+- 🚀 Coordinator of the Nomad Mars rover project: [nomad-rover](https://github.com/Radek-Wojcik/nomad-rover)
+- 🛠️ Mechanical design in Fusion 360, PCB design in Altium, firmware for ESP32 and Arduino in C/C++, Python and C# tools
+- 🪵 Handmade wooden furniture and lamps: [Instagram](https://www.instagram.com/wood_._man/)
+- 💬 Contact me on [LinkedIn](https://www.linkedin.com/in/rados%C5%82aw-w%C3%B3jcik-57519431a/)
+- 🌐 Club website: [konar.pwr.edu.pl](https://konar.pwr.edu.pl)
 
 ## Projects
 
@@ -10,14 +18,5 @@ Engineering student in Wrocław building robots, embedded electronics and the so
 | [chwytatron](https://github.com/Radek-Wojcik/chwytatron) | 6-DOF arm with 100:1 cycloidal gearboxes and a tool changer (work in progress) |
 | [autorespirator](https://github.com/Radek-Wojcik/autorespirator) | Remote-controlled ventilator for CPR training |
 | [lightsaber](https://github.com/Radek-Wojcik/lightsaber) | Metal-hilt prop with a custom ESP32 PCB |
-| [nomad-rover](https://github.com/Radek-Wojcik/nomad-rover) | Mechanics of the KoNaR student Mars rover, which I coordinated |
-
-I also make handmade wooden furniture and lamps; photos are on Instagram.
-
-## Skills
-
-Mechanical design in Fusion 360, PCB design in Altium, firmware for ESP32 and Arduino in C/C++, Python tools and desktop applications.
-
-## Contact
-
-[GitHub](https://github.com/Radek-Wojcik) · [LinkedIn](https://www.linkedin.com/in/rados%C5%82aw-w%C3%B3jcik-57519431a/) · [Instagram: woodworking](https://www.instagram.com/wood_._man/)
+| [nomad-rover](https://github.com/Radek-Wojcik/nomad-rover) | Mechanics of the KoNaR student Mars rover |
+| [RGBcontroller](https://github.com/Radek-Wojcik/RGBcontroller) | Windows RGB and ambilight controller (C# .NET, React UI) |
