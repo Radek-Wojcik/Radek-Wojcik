@@ -15,7 +15,7 @@
 | Project | What it is |
 |---|---|
 | [RGBcontroller](https://github.com/Radek-Wojcik/RGBcontroller) | Windows RGB and ambilight controller (C# .NET, React UI) |
-| Irrigation system | Coming soon |
+| [smart-irrigation](https://github.com/Radek-Wojcik/smart-irrigation) | Three-zone irrigation controller on ESP32 with a TFT panel and a web UI |
 | [chwytatron](https://github.com/Radek-Wojcik/chwytatron) | 6-DOF arm with 100:1 cycloidal gearboxes and a tool changer (work in progress) |
 | [nomad-rover](https://github.com/Radek-Wojcik/nomad-rover) | Mechanics of the KoNaR student Mars rover |
 | [autorespirator](https://github.com/Radek-Wojcik/autorespirator) | Remote-controlled ventilator for CPR training |
