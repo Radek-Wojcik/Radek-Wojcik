@@ -3,10 +3,10 @@
 <img src="assets/konar-logo.png" alt="KoNaR, Koło Naukowe Robotyków" width="420">
 
 - 🎓 Student at Wrocław University of Science and Technology ([PWr](https://pwr.edu.pl), Faculty W4N)
-- 🤖 President of the student robotics club [KoNaR](https://konar.pwr.edu.pl) ([@KoNarRobotics](https://github.com/KoNarRobotics)); before that Vice-President for science projects
+- 🤖 President of the student robotics club [KoNaR](https://konar.pwr.edu.pl) ([@KoNarRobotics](https://github.com/KoNarRobotics)); before that President for science projects
 - 🚀 Coordinator of the Nomad Mars rover project: [nomad-rover](https://github.com/Radek-Wojcik/nomad-rover)
 - 🛠️ Mechanical design in Fusion 360, PCB design in Altium, firmware for ESP32 and Arduino in C/C++, Python and C# tools
-- 🪵 Handmade wooden furniture and lamps: [Instagram](https://www.instagram.com/wood_._man/)
+- ✨ Handmade wooden furniture and lamps: [Instagram](https://www.instagram.com/wood_._man/)
 - 💬 Contact me on [LinkedIn](https://www.linkedin.com/in/rados%C5%82aw-w%C3%B3jcik-57519431a/)
 - 🌐 Club website: [konar.pwr.edu.pl](https://konar.pwr.edu.pl)
 
